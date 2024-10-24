@@ -1,4 +1,17 @@
-﻿using System;
+﻿/*
+*Name: Nicole Carfora   
+*email:  carfornc@mail.uc.edu
+*Assignment Number: In Class 10/24/24
+*Due Date: 10/24/24
+*Course #/Section: IS3050-001
+* Semester / Year:  Fall 2024
+*Brief Description of the assignment: In Class Work
+
+*Brief Description of what this module does. Helping teach how to use GitHub.
+*Citations:
+*Anything else that's relevant:
+*/
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
